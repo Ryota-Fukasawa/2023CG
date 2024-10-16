@@ -1,0 +1,19 @@
+@charset "utf-8";
+body h1 {
+    color: #E8870C;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-size: 40px;
+}
+.key {
+    color: #FFFFFF;
+    background-color: #004CFF;
+    font-size: x-large;
+}
+body p img {
+    border: 10px dotted #00FF3C;
+}
+body {
+    background-image: url("CIT.jpg");
+    background-repeat: no-repeat;
+
+}
